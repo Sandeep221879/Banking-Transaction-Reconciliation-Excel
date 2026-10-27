@@ -85,3 +85,6 @@ Download the macro-enabled workbook and open it in Microsoft Excel desktop to ex
 ## Project Purpose
 
 This project demonstrates practical Excel data analysis, banking operations reconciliation, data quality monitoring, KPI reporting, and interactive dashboard development.
+## Dashboard Preview
+
+![Banking Reconciliation Dashboard](![Banking Reconciliation Dashboard](Screenshot%202026-10-27%20121338.png))
